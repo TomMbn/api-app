@@ -1,0 +1,16 @@
+{
+    "name": "api-app",
+    "version": "1.0.0",
+    "description": "Microservice API using Node.js and MySQL",
+    "main": "src/index.js",
+    "dependencies": {
+      "dotenv": "^16.0.0",
+      "express": "^4.18.2",
+      "jsonwebtoken": "^9.0.0",
+      "mysql2": "^3.2.0",
+      "body-parser": "^1.20.1"
+    },
+    "scripts": {
+      "start": "node src/index.js"
+    }
+  }
