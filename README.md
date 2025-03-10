@@ -1,11 +1,11 @@
 # api-app
-API App
+##API App
 
-Description
+##Description
 
 api-app est un microservice qui interagit avec une base de données MySQL et consomme les services d'auth-app pour l'authentification des utilisateurs. Il expose une API REST permettant de gérer des données sécurisées avec JWT.
 
-📌 Fonctionnalités
+##📌 Fonctionnalités
 
 Vérification et validation des tokens JWT générés par auth-app.
 
