@@ -15,7 +15,7 @@
 
 1. Clonez le dépôt :
     ```sh
-    git clone <url-du-dépôt>
+    git clone https://github.com/TomMbn/api-app
     ```
 2. Installez les dépendances :
     ```sh
